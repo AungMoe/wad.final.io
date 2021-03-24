@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project Info
 
 This project is about SMV company's Parking Request system where company employees can register for their parking space as company priority the customers. So that they can get their parking space when they have to drive to work.
+(I have hosted the firebase and everything but i couldn't figure out how to save the date in there or get them back. I have finished other parts except the data storage)
 ### By Aung Hlaing Moe (5745402)
 
 ## Available Scripts
